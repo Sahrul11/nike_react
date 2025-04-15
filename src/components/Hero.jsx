@@ -5,7 +5,7 @@ const Herosection = () =>{
             <h1>YOUR FEET DESERVE THE BEST</h1>
             <p>YOUR FEET DESERVE THE BEST
             YOUR FEET DESERVE THE BEST YOUR FEET DESERVE THE BEST
-            YOUR FEET DESERVE THE BESTYOUR FEET DESERVE THE BESTYOUR FEET DESERVE THE BEST
+            YOUR FEET DESERVE THE BEST YOUR FEET DESERVE THE BEST YOUR FEET DESERVE THE BEST
             </p>
             <div className="hero-btn">
                 <button>Shop Now</button>
